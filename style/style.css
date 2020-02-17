@@ -1,0 +1,51 @@
+.all {
+    font-family: Arial, Serif;
+    background: azure;
+
+}
+
+
+.name {
+
+    border: 1px solid blue;
+    padding: 10px 10px;
+    border-radius: 20px;
+    width: 400px;
+    color: black;
+    margin: 50px 50px;
+
+}
+
+.image {
+    border: 3px solid #9c714e;
+    border-radius: 20px;
+    margin: 5px 60px;
+}
+
+.contacts {
+    margin: 50px 50px;
+    border: 1px solid blue;
+    border-radius: 20px;
+    padding: 10px 10px;
+    width: 250px;
+
+}
+
+.inform {
+    font-size: 20px;
+    text-align: left;
+}
+
+.paragr1 {
+    font-size: 16px;
+    text-align: left;
+}
+
+.inform2{
+    text-align: left;
+}
+.paragr2 {
+    text-align: left;
+    font-size: 16px;
+
+}
