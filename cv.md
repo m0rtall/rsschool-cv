@@ -4,6 +4,7 @@
 Phone: +375(29)8093401
 E-mail: vad.dania@gmail.com
 Telegram: @m0rtall
+Discord: Danilevich Vadim(@m0rtall)
 
 ***
 
