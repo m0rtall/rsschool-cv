@@ -1,5 +1,6 @@
 
 <h1 style="color:#6495ed;"> DANILEVICH<br>VADIM</h1>
+
 ### Contact information:
 Phone: +375(29)8093401
 E-mail: vad.dania@gmail.com
@@ -9,7 +10,7 @@ Discord: Danilevich Vadim(@m0rtall)
 ***
 
 ### OBJECTIVE
-###### Java Developer
+##### Java Developer
 
 ### SKILLS
 * OOP principles
