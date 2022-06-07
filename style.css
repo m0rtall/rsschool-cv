@@ -1,0 +1,15 @@
+body {
+    max-width: 800px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header>h1 {
+    color: #6495ed;
+}
+
+.line {
+    background-color: grey;
+    width: 800px;
+    height: 2px;
+}
