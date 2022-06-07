@@ -1,5 +1,5 @@
 body {
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -10,6 +10,14 @@ header>h1 {
 
 .line {
     background-color: grey;
-    width: 800px;
+    width: 1000px;
     height: 2px;
+}
+
+.objective>h5 {
+    color: grey;
+}
+
+.study {
+    color: #6495ed;
 }
